@@ -60,13 +60,4 @@ public class BaseBallTeam {
     public void setLose(int lose) {
         this.lose = lose;
     }
-
-    public int getDraw() {
-        return draw;
-    }
-
-    public void setDraw(int doaw) {
-        this.draw = draw;
-    }
-
 }
